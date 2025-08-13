@@ -1,13 +1,13 @@
 
 
 
-ShaderToy 
+# ShaderToy 
 
-What's this
+## What's this
 
-My test code for v
+My test code for shadertoy
 
-How to use
+## How to use
 
 A. Run on Web browser
 1. open https://www.shadertoy.com/new on web brower (i.e, chrome )
@@ -15,6 +15,12 @@ A. Run on Web browser
 3. click Triangle icon at left-bottom of shader inputs pane.
 
 B. Run on Visual Sdutio code
-1. Install plugin "Shader Toy"
+1. Install plugin 
+"Shader Toy" https://marketplace.visualstudio.com/items?itemName=stevensona.shader-toy&ssr=false#overview
 
-https://marketplace.visualstudio.com/items?itemName=stevensona.shader-toy&ssr=false#overview
+
+2. open .shader file and right-click and choose "ShaderToy : show GLSL Previuew"
+
+
+## Content
+
