@@ -28,20 +28,35 @@ B. Run on Visual Sdutio code
 - Ray - sphere intersection
 - Hemisphere sampling
 
+<img src="./document/images/000.png" width="25%">
+
 ### 001_simple_pt.shader
  - Multi sampling
+
+<img src="./document/images/001.png" width="25%">
+
 
 ### 002_simple_pt_floor.shader
  - Add Floor and bounce
 
+<img src="./document/images/002.png" width="25%">
+
+
 ### 003_simple_pt_light_shadow.shader
  - Add light and shadow
+
+<img src="./document/images/003.png" width="25%">
 
 ### 004_simple_pt_BRDF.shader
  - Add multi materials
 
+<img src="./document/images/004.png" width="25%">
+
 ### 005_simple_pt_BRDF_floor.shader
  - Add floor with checker board pattern
 
- 
+<img src="./document/images/005.png" width="25%">
+
+
+
 
