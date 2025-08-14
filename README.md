@@ -24,3 +24,24 @@ B. Run on Visual Sdutio code
 
 ## Content
 
+### 000_minimal_pt.shader
+- Ray - sphere intersection
+- Hemisphere sampling
+
+### 001_simple_pt.shader
+ - Multi sampling
+
+### 002_simple_pt_floor.shader
+ - Add Floor and bounce
+
+### 003_simple_pt_light_shadow.shader
+ - Add light and shadow
+
+### 004_simple_pt_BRDF.shader
+ - Add multi materials
+
+### 005_simple_pt_BRDF_floor.shader
+ - Add floor with checker board pattern
+
+ 
+
