@@ -1,6 +1,4 @@
 
-
-
 # ShaderToy 
 
 ## What's this
@@ -57,6 +55,20 @@ B. Run on Visual Sdutio code
 
 <img src="./document/images/005.png" width="25%">
 
+### 006_simple_pt_BRDF_sky.shader
 
+- Add Sky light color
 
+<img src="./document/images/006.png" width="25%">
 
+### 007_simple_pt_BRDF_IBL.shader
+
+- Add IBL (enviroment texture)
+
+<img src="./document/images/007.png" width="25%">
+
+### 008_simple_pt_BRDF_IBL.shader
+
+- Enviroment map test
+
+<img src="./document/images/008.png" width="25%">
